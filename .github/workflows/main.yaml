@@ -14,5 +14,5 @@ jobs:
         server: ftp.rotatingliner.com
         username: ${{ secrets.FTPUSERNAME }}
         password: ${{ secrets.FTPPASSWORD }}
-        protocol: ftp
+        protocol: ftps
         server-dir: new/
