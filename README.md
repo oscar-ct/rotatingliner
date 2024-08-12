@@ -25,7 +25,17 @@
                      
 ```
 
+# Rotating Liner
 
-# rotatingliner
+:bookmark: [https://www.rotatingliner.com/](RotatingLiner.com)
 
-FTP Deploy
+:bookmark: [https://github.com/toddballard/rotatingliner](https://github.com/toddballard/rotatingliner)
+
+
+## Continous Intergration
+Deploying GitHub Commits to FTP server via [FTP Deploy](https://github.com/SamKirkland/FTP-Deploy-Action)
+
+> [!NOTE]
+>  Temp folder
+> 
+> :bookmark: https://www.rotatingliner.com/new/
